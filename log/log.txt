@@ -1,0 +1,51 @@
+2022-03-17 14:37:50,246 inference.py: INFO: 
+2022-03-17 14:38:27,605 inference.py: INFO: 
+2022-03-17 14:38:27,868 text_processor.py: INFO: processed emb pinyin
+2022-03-17 14:38:42,936 inference.py: INFO: 
+2022-03-17 14:38:43,197 text_processor.py: INFO: processed emb pinyin
+2022-03-17 14:38:43,198 text_processor.py: INFO: processed emb graphic
+2022-03-17 14:38:43,198 text_processor.py: INFO: processed emb speaker
+2022-03-17 14:38:43,199 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './py.vocab', 'dim': 256, 'weight': 1.0, 'max_seq_len': 100}
+2022-03-17 14:38:43,203 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './gp.vocab', 'dim': 256, 'weight': 0.5, 'max_seq_len': 100}
+2022-03-17 14:38:43,216 fs2_model.py: INFO: building embedding with config: {'enable': True, 'vocab': None, 'vocab_size': 218, 'weight': 1.0, 'dim': 256}
+2022-03-17 14:38:43,295 decoder.py: INFO: decoder_type FS2TransformerDecoder
+2022-03-17 14:40:43,814 inference.py: INFO: 
+2022-03-17 14:40:44,071 text_processor.py: INFO: processed emb pinyin
+2022-03-17 14:40:44,073 text_processor.py: INFO: processed emb graphic
+2022-03-17 14:40:44,073 text_processor.py: INFO: processed emb speaker
+2022-03-17 14:40:44,073 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './py.vocab', 'dim': 256, 'weight': 1.0, 'max_seq_len': 100}
+2022-03-17 14:40:44,077 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './gp.vocab', 'dim': 256, 'weight': 0.5, 'max_seq_len': 100}
+2022-03-17 14:40:44,087 fs2_model.py: INFO: building embedding with config: {'enable': True, 'vocab': None, 'vocab_size': 218, 'weight': 1.0, 'dim': 256}
+2022-03-17 14:40:44,167 decoder.py: INFO: decoder_type FS2TransformerDecoder
+2022-03-17 14:41:07,054 inference.py: INFO: 
+2022-03-17 14:41:07,408 text_processor.py: INFO: processed emb pinyin
+2022-03-17 14:41:07,410 text_processor.py: INFO: processed emb graphic
+2022-03-17 14:41:07,410 text_processor.py: INFO: processed emb speaker
+2022-03-17 14:41:07,410 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './py.vocab', 'dim': 256, 'weight': 1.0, 'max_seq_len': 100}
+2022-03-17 14:41:07,415 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './gp.vocab', 'dim': 256, 'weight': 0.5, 'max_seq_len': 100}
+2022-03-17 14:41:07,426 fs2_model.py: INFO: building embedding with config: {'enable': True, 'vocab': None, 'vocab_size': 218, 'weight': 1.0, 'dim': 256}
+2022-03-17 14:41:07,509 decoder.py: INFO: decoder_type FS2TransformerDecoder
+2022-03-17 14:41:40,644 inference.py: INFO: 
+2022-03-17 14:41:40,910 text_processor.py: INFO: processed emb pinyin
+2022-03-17 14:41:40,911 text_processor.py: INFO: processed emb graphic
+2022-03-17 14:41:40,911 text_processor.py: INFO: processed emb speaker
+2022-03-17 14:41:40,911 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './py.vocab', 'dim': 256, 'weight': 1.0, 'max_seq_len': 100}
+2022-03-17 14:41:40,915 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './gp.vocab', 'dim': 256, 'weight': 0.5, 'max_seq_len': 100}
+2022-03-17 14:41:40,925 fs2_model.py: INFO: building embedding with config: {'enable': True, 'vocab': None, 'vocab_size': 218, 'weight': 1.0, 'dim': 256}
+2022-03-17 14:41:41,004 decoder.py: INFO: decoder_type FS2TransformerDecoder
+2022-03-17 14:42:30,365 inference.py: INFO: 
+2022-03-17 14:42:30,716 text_processor.py: INFO: processed emb pinyin
+2022-03-17 14:42:30,718 text_processor.py: INFO: processed emb graphic
+2022-03-17 14:42:30,718 text_processor.py: INFO: processed emb speaker
+2022-03-17 14:42:30,718 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './py.vocab', 'dim': 256, 'weight': 1.0, 'max_seq_len': 100}
+2022-03-17 14:42:30,723 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './gp.vocab', 'dim': 256, 'weight': 0.5, 'max_seq_len': 100}
+2022-03-17 14:42:30,733 fs2_model.py: INFO: building embedding with config: {'enable': True, 'vocab': None, 'vocab_size': 218, 'weight': 1.0, 'dim': 256}
+2022-03-17 14:42:30,817 decoder.py: INFO: decoder_type FS2TransformerDecoder
+2022-03-17 14:43:34,459 inference.py: INFO: 
+2022-03-17 14:43:34,727 text_processor.py: INFO: processed emb pinyin
+2022-03-17 14:43:34,728 text_processor.py: INFO: processed emb graphic
+2022-03-17 14:43:34,728 text_processor.py: INFO: processed emb speaker
+2022-03-17 14:43:34,728 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './py.vocab', 'dim': 256, 'weight': 1.0, 'max_seq_len': 100}
+2022-03-17 14:43:34,733 fs2_model.py: INFO: building embedding with config: {'enable': True, 'type': 'embedding', 'vocab': './gp.vocab', 'dim': 256, 'weight': 0.5, 'max_seq_len': 100}
+2022-03-17 14:43:34,743 fs2_model.py: INFO: building embedding with config: {'enable': True, 'vocab': None, 'vocab_size': 218, 'weight': 1.0, 'dim': 256}
+2022-03-17 14:43:34,826 decoder.py: INFO: decoder_type FS2TransformerDecoder
